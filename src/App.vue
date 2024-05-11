@@ -17,7 +17,7 @@ export default {
   name: 'App',
   data:function(){
     return {
-      corporation:"株式会社 SELECT FROM",
+      corporation:"株式会社 DXPRO",
       // headerTopic:"お問い合わせ"
       headerTopic:["トップページ","会社案内","お問い合わせ","事業紹介","掲示板","会社実績"],
       // footerTopic:{contact:"お問い合わせ",aboutUs:"私たちの活動",diary:"プログラミング日記",result:"開発実績"}
